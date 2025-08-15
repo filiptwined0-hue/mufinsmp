@@ -1,0 +1,2 @@
+# mufinsmp
+minecraft server smp
